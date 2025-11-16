@@ -1,0 +1,12 @@
+{
+  "name": "har-images",
+  "version": "1.0.0",
+  "author": "Franck Matsos <github@franck.matsos.fr> (https://github.com/fmatsos)",
+  "description": "Extract images from HAR files (with pattern, progress bar, optional ZIP).",
+  "bin": {
+    "har-images": "bin/har-images.js"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
